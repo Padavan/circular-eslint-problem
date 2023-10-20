@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "import"
+  ],
+  "rules": {
+    "semi": "error",
+    "prefer-const": "error",
+    "import/no-cycle": 1
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 11
+  }
+}
